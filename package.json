@@ -33,6 +33,6 @@
     "dev": "wrangler dev",
     "start": "wrangler dev",
     "test": "vitest",
-     "build": "bun build"
+    "build": "bun build"
   }
 }
